@@ -1,0 +1,1 @@
+Some personal projects to learn different techniques in machine learning and artificial intelligence
